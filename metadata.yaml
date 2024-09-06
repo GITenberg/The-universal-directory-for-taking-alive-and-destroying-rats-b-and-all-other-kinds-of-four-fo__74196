@@ -1,0 +1,34 @@
+_repo: The-universal-directory-for-taking-alive-and-destroying-rats-b-and-all-other-kinds-of-four-fo__74196
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Robert (Rat-catcher)
+    gutenberg_agent_id: '57386'
+    url: http://www.gutenberg.org/2009/agents/57386
+description: ''
+edition_note: The third edition.
+gutenberg_issued: '2024-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74196'
+  lccn: '16000160'
+language: en
+pgterms:marc904: https://archive.org/details/b2876092x
+pgterms:marc905: 20230825162914smith
+pgterms:marc906: '1786'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJ. Walker, $c1786.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rats -- Control'
+- !lcsh 'Zoology, Economic'
+- !lcc 'SB'
+- GITenberg
+title: 'The universal directory for taking alive and destroying rats : $b and all
+  other kinds of four-footed and winged vermin, in a method hitherto unattempted :
+  calculated for the use of the gentleman, the farmer, and the warrener'
+url: http://www.gutenberg.org/ebooks/74196
