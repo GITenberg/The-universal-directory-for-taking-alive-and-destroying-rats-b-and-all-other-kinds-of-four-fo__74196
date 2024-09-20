@@ -1,11 +1,16 @@
 _repo: The-universal-directory-for-taking-alive-and-destroying-rats-b-and-all-other-kinds-of-four-fo__74196
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74196-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Robert (Rat-catcher)
     gutenberg_agent_id: '57386'
     url: http://www.gutenberg.org/2009/agents/57386
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74196#The-universal-directory-for-taking-alive-and-destroying-rats-b-and-all-other-kinds-of-four-fo_
 edition_note: The third edition.
 gutenberg_issued: '2024-08-06'
 gutenberg_type: Text
